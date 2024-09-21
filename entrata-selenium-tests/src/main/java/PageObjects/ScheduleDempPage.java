@@ -56,7 +56,7 @@ public class ScheduleDempPage extends Utilities {
 			lastName.sendKeys("Bhalerao");
 			email.sendKeys("sourabh123@gmail.com");
 			company.sendKeys("abc");
-			phone.sendKeys("1234567899");
+			phone.sendKeys("1334567899");
 			selectDropdownValues(unitCount,3);
 			jobTitle.sendKeys("Assistant");
 			selectDropdownValues(customerType,2);
