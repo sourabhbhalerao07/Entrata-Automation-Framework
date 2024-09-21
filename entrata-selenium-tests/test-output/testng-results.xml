@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-21T21:26:21 IST" name="Default suite" finished-at="2024-09-21T21:27:33 IST" duration-ms="71153">
+    <groups>
+    </groups>
+    <test started-at="2024-09-21T21:26:21 IST" name="Default test" finished-at="2024-09-21T21:27:33 IST" duration-ms="71153">
+      <class name="com.entrata.tests.entrata_selenium_tests.ScheduleDemoTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.entrata.tests.entrata_selenium_tests.ScheduleDemoTest@783a467b]" started-at="2024-09-21T21:26:22 IST" name="launchApplication" finished-at="2024-09-21T21:27:06 IST" duration-ms="44372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="scheduleDemoTest()[pri:0, instance:com.entrata.tests.entrata_selenium_tests.ScheduleDemoTest@783a467b]" started-at="2024-09-21T21:27:06 IST" name="scheduleDemoTest" finished-at="2024-09-21T21:27:32 IST" duration-ms="26321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scheduleDemoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrata.tests.entrata_selenium_tests.ScheduleDemoTest@783a467b]" started-at="2024-09-21T21:27:32 IST" name="tearDown" finished-at="2024-09-21T21:27:33 IST" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrata.tests.entrata_selenium_tests.ScheduleDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
